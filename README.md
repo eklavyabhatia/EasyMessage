@@ -1,5 +1,5 @@
 # EasyMessage
-Send whatsapp messages to numbers without adding them in your contacts list.
+Send whatsapp messages to people without adding them in your contacts list.
 
 ## Steps to follow
 - Install the App
